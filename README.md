@@ -1,6 +1,8 @@
 # Website spinopel.top
 ## _My personal website built with Bootstrap Studio._
 
+![Static Badge](https://img.shields.io/badge/status-active-green?labelColor=yhjgjhj)
+
 ## Tech
 
 We uses a number of open source projects to work properly:
