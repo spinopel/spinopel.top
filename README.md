@@ -16,6 +16,10 @@ Paid program for implementing website functionality:
 - [Bootstrap Studio](https://bootstrapstudio.io) - A desktop app
   for creating responsive websites using the Bootstrap framework.
 
+## Installation
+
+Copy all files to your repository and run index.html in your browser.
+
 Links:
 - https://dillinger.io
 
