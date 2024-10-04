@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html amp lang="en">
+<head>
+<meta CHARSET="utf-8">
+<title>SpinOpel | Programmer - DIY Specialist - Musician - Gamer</title>
+<link REL="canonical" HREF="https://spinopel.top/">
+<meta name="viewport" CONTENT="width=device-width,minimum-scale=1,initial-scale=1">
+<style amp-boilerplate>
+body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+</style>
+<noscript>
+<style amp-boilerplate>
+body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}
+</style>
+</noscript>
+<script async SRC="https://cdn.ampproject.org/v0.js"></script> 
+<script async custom-element="amp-sidebar" SRC="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script> 
+<script async custom-element="amp-social-share" SRC="https://cdn.ampproject.org/v0/amp-social-share-0.1.js"></script> 
+<script async custom-element="amp-fit-text" SRC="https://cdn.ampproject.org/v0/amp-fit-text-0.1.js"></script>
+<style amp-custom>
+		:root {
+		  --space-1: 0.5rem;
+		  --space-2: 1rem;   /* 16px */
+		  --space-4: 2rem;
+		  --color-primary: #005AF0;
+		  --color-text-light: #fff;
+		}
+		.sample-sidebar {
+		  width: 250px;
+		  padding: var(--space-2);
+		}
+		.sample-sidebar > * {
+		  margin-top: var(--space-2);
+		}
+		.sample-sidebar li,
+		nav[toolbar] li {
+		  margin: var(--space-2);
+		  margin-left: var(--space-4);
+		  list-style: none;
+		}
+		amp-sidebar ul, nav[toolbar] ul {
+		  display: block;
+		  padding-left: 0;
+		}
+		.previewOnly {
+		  margin: var(--space-2);
+		}
+		#sidebar-right nav.amp-sidebar-toolbar-target-shown {
+			display: none;
+		}
+		button {
+		  margin-left: var(--space-2);
+		}
+		header {
+		  background-color: lightgray;
+		  padding-bottom: var(--space-2);
+		}
+		.hamburger {
+		  top: 0;
+		  right: 0;
+		  position: absolute;
+		}
+		h1 {
+		  padding: var(--space-1);
+		  margin: 0;
+		  font-size: 2em;
+		}
+		.desktop-sidebar {
+		  background-color: lightblue;
+		}
+		@media (min-width: 784px) {
+		  .hamburger {
+			display: none;
+		  }
+		  main {
+			display: flex;
+			flex-direction: row;
+		  }
+		  aside {
+			width: 300px;
+		  }
+		}
+		/* a custom sharing icon */
+		amp-social-share.custom-style {
+		  background-color: #008080;
+		  background-image: url('https://raw.githubusercontent.com/google/material-design-icons/master/social/1x_web/ic_share_white_48dp.png');
+		  background-repeat: no-repeat;
+		  background-position: center;
+		  background-size: contain;
+		}
+		/* blue icons with rounded corners  */
+		amp-social-share.rounded {
+		  border-radius: 50%;
+		  background-size: 60%;
+		  color: var(--color-text-light);
+		  background-color: var(--color-primary);
+		}
+		</style>
+</head>
+<body>
+<header>
+  <amp-img src="https://spinopel.top/assets/img/logo-spinopel.png" width="480" height="480" layout="responsive"></amp-img>
+  <h1>SpinOpel</h1>
+  <h2>Content creator - programmer - DIY specialist - musician - gamer</h2>
+  <button CLASS="hamburger" on="tap:sidebar-desktop.toggle" aria-label="Click to open sidebar"> = </button>
+</header>
+<main>
+  <aside id="target-element-desktop" CLASS="desktop-sidebar">
+    <h1>Menu</h1>
+  </aside>
+  <article>
+    <h1>Main content</h1>
+    <p CLASS="previewOnly"> I create content of various types (gaming, music, programming, electronics). </p>
+    <h2>Social media</h2>
+    <div>
+      <amp-social-share class="rounded" aria-label="Share on Facebook" type="facebook" data-param-app_id="61557661347951" width="48" height="48"></amp-social-share>
+      <amp-social-share class="rounded" aria-label="Share on LinkedIn" type="linkedin" width="48" height="48"></amp-social-share>
+      <amp-social-share class="rounded" aria-label="Share on Pinterest" type="pinterest" data-param-media="https://amp.dev/static/samples/img/amp.jpg" width="48" height="48"></amp-social-share>
+      <amp-social-share class="rounded" aria-label="Share on Twitter" type="twitter" width="48" height="48"></amp-social-share>
+      <amp-social-share class="rounded" aria-label="Share by email " type="email" width="48" height="48"></amp-social-share>
+    </div>
+  </article>
+</main>
+<div>
+  <amp-sidebar id="sidebar-desktop" class="desktop-sidebar" layout="nodisplay" side="left">
+    <h1>Menu</h1>
+    <button on="tap:sidebar-desktop.close">Close sidebar</button>
+    <nav toolbar="(min-width: 784px)" toolbar-target="target-element-desktop">
+      <ul>
+        <li> <a HREF="https://spinopel.top/">Home</a> </li>
+        <li> <a HREF="https://spinopel.top/gaming/">Gaming</a> </li>
+        <li> <a HREF="https://spinopel.top/music/">Music</a> </li>
+        <li> <a HREF="https://spinopel.top/programming/">Programming</a> </li>
+        <li> <a HREF="https://spinopel.top/electronics/">Electronics</a> </li>
+        <li> <a HREF="https://spinopel.top/services/">Services</a> </li>
+        <li> <a HREF="https://spinopel.top/about/">About</a> </li>
+      </ul>
+    </nav>
+  </amp-sidebar>
+</div>
+</body></html>

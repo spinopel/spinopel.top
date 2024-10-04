@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:turbo="http://turbo.yandex.ru"
+     version="2.0">
+  <channel>
+    <title>SpinOpel | Programmer - DIY Specialist - Musician - Gamer</title>
+    <link>https://spinopel.top</link>
+    <description>Official personalized website of SpinOpel. Listed interests and hobbies. The latest projects and events. List of social media links.</description>
+    <language>en</language>
+    <turbo:analytics type="Yandex" id="97462396"></turbo:analytics>
+    <item turbo="true">
+      <link>https://spinopel.top/index.php</link>
+      <turbo:content>
+        <![CDATA[<header>
+          <h1>SpinOpel</h1>
+          <h2>Content creator</h2>
+          <figure>
+          <img src="https://spinopel.top/assets/img/logo-spinopel.png"/>
+          <figcaption>Logo image</figcaption>
+          </figure>
+          <menu>
+          <a href="https://spinopel.top/">Home</a>
+          <a href="https://spinopel.top/gaming/">Gaming</a>
+          <a href="https://spinopel.top/music/">Music</a>
+          <a href="https://spinopel.top/programming/">Programming</a>
+          <a href="https://spinopel.top/electronics/">Electronics</a>
+          <a href="https://spinopel.top/services/">Services</a>
+          <a href="https://spinopel.top/about/">About</a>
+          </menu>
+          </header>
+          <p>I create content of various types (gaming, music, programming, electronics).</p>
+          <p></p>
+          <div data-block="widget-feedback" data-title="Social media:" data-stick="false">
+          <div data-type="vkontakte" data-url="https://vk.com/spin_opel"></div>
+          <div data-type="odnoklassniki" data-url="https://ok.ru/spinopel"></div>
+          <div data-type="facebook" data-url="https://www.facebook.com/spinopel50"></div>
+          <div data-type="twitter" data-url="https://twitter.com/Spin0pel"></div>
+          <div data-type="mail" data-url="mailto:spinopel@yahoo.com"></div>
+          </div>]]>
+      </turbo:content>
+    </item>
+  </channel>
+</rss>
