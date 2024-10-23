@@ -10,7 +10,7 @@ RewriteRule ^(.+?)/?$ $1.html [NC,L]
 
 ErrorDocument 404 /404.html
 
-# Security Headers
+# Security headers
 <IfModule mod_headers.c>
 	Header set X-XSS-Protection "1; mode=block"
 	Header always append Content-Security-Policy "frame-ancestors 'self' https://youtu.be https://w.soundcloud.com;"
@@ -18,4 +18,29 @@ ErrorDocument 404 /404.html
 	Header always set Strict-Transport-Security "max-age=63072000; includeSubDomains"
 	Header set Referrer-Policy "same-origin"
 	Header set Permissions-Policy geolocation=(self)
+</IfModule>
+
+# JavaScript caching
+<IfModule mod_expires.c>
+    ExpiresActive on
+
+  # Favicon and cursor images
+    ExpiresByType image/x-icon              "access plus 4 month"
+
+  # Media
+    ExpiresByType image/png                 "access plus 4 month"
+    ExpiresByType image/webp                "access plus 4 month"
+    ExpiresByType image/svg                 "access plus 4 month"
+
+  # CSS
+    ExpiresByType text/css                  "access plus 4 month"
+
+  # JavaScript
+    ExpiresByType text/javascript           "access plus 4 month"
+    ExpiresByType application/javascript    "access plus 4 month"
+
+  # Web fonts
+    ExpiresByType application/font-woff2    "access plus 4 month"
+    ExpiresByType font/woff2                "access plus 4 month"
+    ExpiresByType image/svg+xml             "access plus 4 month"
 </IfModule>
