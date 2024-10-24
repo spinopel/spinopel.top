@@ -20,7 +20,7 @@ ErrorDocument 404 /404.html
 	Header set Permissions-Policy geolocation=(self)
 </IfModule>
 
-# JavaScript caching
+# Browser caching
 <IfModule mod_expires.c>
     ExpiresActive on
 
@@ -30,6 +30,7 @@ ErrorDocument 404 /404.html
   # Media
     ExpiresByType image/png                 "access plus 4 month"
     ExpiresByType image/webp                "access plus 4 month"
+    ExpiresByType image/avif                "access plus 4 month"
     ExpiresByType image/svg                 "access plus 4 month"
 
   # CSS
