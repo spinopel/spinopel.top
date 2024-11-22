@@ -4,13 +4,13 @@
      xmlns:turbo="http://turbo.yandex.ru"
      version="2.0">
   <channel>
-    <title>SpinOpel | Programmer - DIY Specialist - Musician - Gamer</title>
+    <title>SpinOpel | Programmer - DIY specialist - Musician - Gamer</title>
     <link>https://spinopel.top</link>
-    <description>Official personalized website of SpinOpel. Listed interests and hobbies. The latest projects and events. List of social media links.</description>
+    <description>Official personalized website of SpinOpel. Interests, hobbies, links to social media are listed. The latest projects and events. Download my app for Android.</description>
     <language>en</language>
     <turbo:analytics type="Yandex" id="97462396"></turbo:analytics>
     <item turbo="true">
-      <link>https://spinopel.top/index.php</link>
+      <link>https://spinopel.top/index.html</link>
       <turbo:content>
         <![CDATA[<header>
           <h1>SpinOpel</h1>
@@ -32,7 +32,7 @@
           <p>I create content of various types (gaming, music, programming, electronics).</p>
           <p></p>
           <div data-block="widget-feedback" data-title="Social media:" data-stick="false">
-          <div data-type="vkontakte" data-url="https://vk.com/spin_opel"></div>
+          <div data-type="vkontakte" data-url="https://vk.com/spinopel"></div>
           <div data-type="odnoklassniki" data-url="https://ok.ru/spinopel"></div>
           <div data-type="facebook" data-url="https://www.facebook.com/spinopel50"></div>
           <div data-type="twitter" data-url="https://twitter.com/Spin0pel"></div>
