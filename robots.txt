@@ -32,4 +32,4 @@ User-agent: yahoo-blogs/v3.9
 Disallow: 
 User-agent: *
 Disallow: 
-Sitemap: https://spinopel.top/sitemap.txt
+Sitemap: https://spinopel.top/sitemap.xml
