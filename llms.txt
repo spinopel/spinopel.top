@@ -1,0 +1,45 @@
+# SpinOpel | Programmer - DIY Specialist - Musician - Gamer
+
+SpinOpel's personalized website has interests, hobbies, links to social media, and the most recent projects and events included.
+
+## Personal Overview
+- [SpinOpel](https://spinopel.top/index.html): The main page of SpinOpel, showcasing personal interests, hobbies, and links to social media profiles.
+
+## Hobbies and Interests
+### Gaming
+- [Gaming](https://spinopel.top/gaming.html): A section dedicated to gaming interests, including favorite games, gaming setups, and related content.
+
+### Music
+- [Music](https://spinopel.top/music.html): This page highlights musical interests, including genres, favorite artists, and personal music projects.
+
+### Programming
+- [Programming](https://spinopel.top/programming.html): A resource for programming enthusiasts, detailing projects, programming languages used, and coding tutorials.
+
+### Electronics
+- [Electronics](https://spinopel.top/electronics.html): Focuses on DIY electronics projects, including guides and tips for building electronic devices.
+
+## Music Portfolio
+- [Flash club album](https://spinopel.top/album/flash-club.html): The music album is based on DJ mixes for dance floors. Cheerful, energetic, fast tracks motivate you to dance and be active. This music album consists of 14 tracks prepared for clubs, gyms, walks. Evokes the mood of a party and activity to exercise.
+- [Land Adventures Album](https://spinopel.top/album/land-adventures.html): The music album tells about adventures on planet Earth. Meeting with terrestrial and extraterrestrial creatures. Get ready to dive into the world of unusual events!
+- [Motivational Music Album](https://spinopel.top/album/motivational-practices.html): The music album about motivation practices, performed in unusual life stories. Awaken in yourself a surge of interest, inspiration, and vital energy.
+- [Space adventures album](https://spinopel.top/album/space-adventures.html): The album consists of 12 tracks dedicated to space adventures in intergalactic space. Join the team of brave space rangers.
+- [Underwater Adventures Album](https://spinopel.top/album/underwater-adventures.html): This music album consists of atmospheric tracks prepared for maritime museum or oceanarium. Observing the underwater world allows you to relax, unwind, nature connectedness. Experience the sensations of a diver during a deep dive into the dark abyss of the unknown.
+
+## Services Offered
+- [Services](https://spinopel.top/services.html): Information about services provided by SpinOpel, including freelance work and consulting in various fields.
+
+## About
+- [about](https://spinopel.top/about.html): A brief biography of SpinOpel, detailing background, skills, and personal philosophy.
+
+## Downloads
+- [Download APK file](https://sourceforge.net/projects/webapp-android/files/SpinOpel.apk/download): A link to download the Android application developed by SpinOpel.
+
+## Additional Information
+- [Musician - SpinOpel](https://spinopel.top/music/): A dedicated page for SpinOpel's music career, showcasing works and performances.
+- [DIY Specialist - Electronics - SpinOpel](https://spinopel.top/electronics/): Highlights expertise in DIY electronics, featuring projects and tutorials.
+- [Gamer - SpinOpel](https://spinopel.top/gaming/): A page focused on gaming activities and community involvement.
+- [Services - SpinOpel](https://spinopel.top/services/): Further details on the services offered by SpinOpel.
+- [Programmer - SpinOpel](https://spinopel.top/programming/): A page detailing programming skills and projects undertaken.
+
+## Contact
+- [Email: please click](https://spinopel.top/): A link to contact SpinOpel via email for inquiries or collaborations.
