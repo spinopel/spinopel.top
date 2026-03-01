@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>https://spinopel.top/album/flash-club.html</loc>
-    </url>
-    <url>
-        <loc>https://spinopel.top/album/land-adventures.html</loc>
-    </url>
-    <url>
-        <loc>https://spinopel.top/album/motivational-practices.html</loc>
-    </url>
-    <url>
-        <loc>https://spinopel.top/album/space-adventures.html</loc>
-    </url>
-    <url>
-        <loc>https://spinopel.top/album/underwater-adventures.html</loc>
-    </url>
-    <url>
         <loc>https://spinopel.top/404.html</loc>
     </url>
     <url>
         <loc>https://spinopel.top/about.html</loc>
+    </url>
+    <url>
+        <loc>https://spinopel.top/album-flash-club.html</loc>
+    </url>
+    <url>
+        <loc>https://spinopel.top/album-land-adventures.html</loc>
+    </url>
+    <url>
+        <loc>https://spinopel.top/album-motivational-practices.html</loc>
+    </url>
+    <url>
+        <loc>https://spinopel.top/album-space-adventures.html</loc>
+    </url>
+    <url>
+        <loc>https://spinopel.top/album-underwater-adventures.html</loc>
     </url>
     <url>
         <loc>https://spinopel.top/electronics.html</loc>
@@ -32,6 +32,18 @@
     </url>
     <url>
         <loc>https://spinopel.top/music.html</loc>
+    </url>
+    <url>
+        <loc>https://spinopel.top/playlist-genre-dnb.html</loc>
+    </url>
+    <url>
+        <loc>https://spinopel.top/playlist-genre-soundtrack.html</loc>
+    </url>
+    <url>
+        <loc>https://spinopel.top/playlist-genre-techno.html</loc>
+    </url>
+    <url>
+        <loc>https://spinopel.top/playlist-genre-trance.html</loc>
     </url>
     <url>
         <loc>https://spinopel.top/programming.html</loc>

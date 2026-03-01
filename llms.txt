@@ -19,11 +19,11 @@ SpinOpel's personalized website has interests, hobbies, links to social media, a
 - [Electronics](https://spinopel.top/electronics.html): Focuses on DIY electronics projects, including guides and tips for building electronic devices.
 
 ## Music Portfolio
-- [Flash club album](https://spinopel.top/album/flash-club.html): The music album is based on DJ mixes for dance floors. Cheerful, energetic, fast tracks motivate you to dance and be active. This music album consists of 14 tracks prepared for clubs, gyms, walks. Evokes the mood of a party and activity to exercise.
-- [Land Adventures Album](https://spinopel.top/album/land-adventures.html): The music album tells about adventures on planet Earth. Meeting with terrestrial and extraterrestrial creatures. Get ready to dive into the world of unusual events!
-- [Motivational Music Album](https://spinopel.top/album/motivational-practices.html): The music album about motivation practices, performed in unusual life stories. Awaken in yourself a surge of interest, inspiration, and vital energy.
-- [Space adventures album](https://spinopel.top/album/space-adventures.html): The album consists of 12 tracks dedicated to space adventures in intergalactic space. Join the team of brave space rangers.
-- [Underwater Adventures Album](https://spinopel.top/album/underwater-adventures.html): This music album consists of atmospheric tracks prepared for maritime museum or oceanarium. Observing the underwater world allows you to relax, unwind, nature connectedness. Experience the sensations of a diver during a deep dive into the dark abyss of the unknown.
+- [Flash club album](https://spinopel.top/album-flash-club.html): The music album is based on DJ mixes for dance floors. Cheerful, energetic, fast tracks motivate you to dance and be active. This music album consists of 14 tracks prepared for clubs, gyms, walks. Evokes the mood of a party and activity to exercise.
+- [Land Adventures Album](https://spinopel.top/album-land-adventures.html): The music album tells about adventures on planet Earth. Meeting with terrestrial and extraterrestrial creatures. Get ready to dive into the world of unusual events!
+- [Motivational Music Album](https://spinopel.top/album-motivational-practices.html): The music album about motivation practices, performed in unusual life stories. Awaken in yourself a surge of interest, inspiration, and vital energy.
+- [Space adventures album](https://spinopel.top/album-space-adventures.html): The album consists of 12 tracks dedicated to space adventures in intergalactic space. Join the team of brave space rangers.
+- [Underwater Adventures Album](https://spinopel.top/album-underwater-adventures.html): This music album consists of atmospheric tracks prepared for maritime museum or oceanarium. Observing the underwater world allows you to relax, unwind, nature connectedness. Experience the sensations of a diver during a deep dive into the dark abyss of the unknown.
 
 ## Services Offered
 - [Services](https://spinopel.top/services.html): Information about services provided by SpinOpel, including freelance work and consulting in various fields.
